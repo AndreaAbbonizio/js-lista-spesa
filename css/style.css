@@ -1,0 +1,14 @@
+#listaPagina{
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 16px;
+    padding-top: .5em;
+    list-style: inside;
+    padding-inline-start: 10px;
+}
+
+#listaPagina .item-list{
+    margin-bottom: 1em;
+    padding-bottom: .5em;
+    border-bottom: 1px solid black;
+}
